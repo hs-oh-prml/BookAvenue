@@ -32,7 +32,6 @@ dependencies:
   sqflite: ^0.12.2+1
   path_provider: ^0.4.1
   google_maps_flutter:
-  crypto: ^2.1.5
 
 dev_dependencies:
   flutter_test:
