@@ -267,7 +267,11 @@ packages:
       name: pedantic
       url: "https://pub.dartlang.org"
     source: hosted
+<<<<<<< Updated upstream
     version: "1.9.0"
+=======
+    version: "1.8.0+1"
+>>>>>>> Stashed changes
   platform_detect:
     dependency: transitive
     description:
@@ -429,4 +433,8 @@ packages:
     version: "2.0.8"
 sdks:
   dart: ">=2.9.0-14.0.dev <3.0.0"
+<<<<<<< Updated upstream
   flutter: ">=1.16.3 <2.0.0"
+=======
+  flutter: ">=1.12.13+hotfix.5 <2.0.0"
+>>>>>>> Stashed changes

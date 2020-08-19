@@ -10,7 +10,7 @@
         android:label="bookavenue"
         android:icon="@mipmap/ic_launcher">
         <meta-data android:name="com.google.android.geo.API_KEY"
-            android:value="AIzaSyD-NSCh-PhJAqiSy_If73Ca_RMOrjQS9JM"/>
+            android:value=""/>
         <activity
             android:name=".MainActivity"
             android:launchMode="singleTop"
